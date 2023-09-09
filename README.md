@@ -1,2 +1,2 @@
-# practise
+# practice
 for learning
